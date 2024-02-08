@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-MinSizeRel-6263695facf18c6aa8a4.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "MinSizeRel",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "mslast",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "mslast::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mslast-MinSizeRel-1e0109c6fa5f2e08da71.json",
+					"name" : "mslast",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mslast_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mslast_autogen-MinSizeRel-00126c9d54f61a15380d.json",
+					"name" : "mslast_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mslast_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mslast_autogen_timestamp_deps-MinSizeRel-ed91106ef8c79871b1e3.json",
+					"name" : "mslast_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/spudi/Documents/build-mslast-Desktop_Qt_6_5_0_MinGW_64_bit-MinSizeRel",
+		"source" : "C:/Users/spudi/Desktop/source"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

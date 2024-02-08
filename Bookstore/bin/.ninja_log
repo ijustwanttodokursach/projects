@@ -1,0 +1,15 @@
+# ninja log v5
+7	5136	7291112819640994	rpbd_autogen/timestamp	14fb0c329b2ba0a3
+7	5136	7291112819640994	rpbd_autogen/mocs_compilation.cpp	14fb0c329b2ba0a3
+7	5136	7291112819640994	C:/Users/spudi/Documents/build-rpbd-Desktop_Qt_6_5_0_MinGW_64_bit-MinSizeRel/rpbd_autogen/timestamp	14fb0c329b2ba0a3
+7	5136	7291112819640994	C:/Users/spudi/Documents/build-rpbd-Desktop_Qt_6_5_0_MinGW_64_bit-MinSizeRel/rpbd_autogen/mocs_compilation.cpp	14fb0c329b2ba0a3
+5143	10409	7291112879441894	CMakeFiles/rpbd.dir/rpbd_autogen/mocs_compilation.cpp.obj	a219f51aecd7a9cd
+5137	10525	7291112880267626	CMakeFiles/rpbd.dir/main.cpp.obj	7304c10057ce719e
+5148	15309	7291112928375551	CMakeFiles/rpbd.dir/mainwindow.cpp.obj	27fb814980c8a93c
+15311	15706	7291112932281017	rpbd.exe	cebbf46ccfadf7b2
+13	686	7291134323745613	rpbd_autogen/timestamp	14fb0c329b2ba0a3
+13	686	7291134323745613	rpbd_autogen/mocs_compilation.cpp	14fb0c329b2ba0a3
+13	686	7291134323745613	C:/Users/spudi/Documents/build-rpbd-Desktop_Qt_6_5_0_MinGW_64_bit-MinSizeRel/rpbd_autogen/timestamp	14fb0c329b2ba0a3
+13	686	7291134323745613	C:/Users/spudi/Documents/build-rpbd-Desktop_Qt_6_5_0_MinGW_64_bit-MinSizeRel/rpbd_autogen/mocs_compilation.cpp	14fb0c329b2ba0a3
+729	7576	7291134392619043	CMakeFiles/rpbd.dir/mainwindow.cpp.obj	27fb814980c8a93c
+7577	7904	7291134395853697	rpbd.exe	cebbf46ccfadf7b2
